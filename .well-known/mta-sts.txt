@@ -1,7 +1,7 @@
 version: STSv1
 mode: testing
-mx: ALT1.ASPMX.L.GOOGLE.COM
-mx: ALT2.ASPMX.L.GOOGLE.COM
-mx: ASPMX.L.GOOGLE.COM
+mx: alt1.aspmx.l.google.com
+mx: alt2.aspmx.l.google.com
+mx: aspmx.l.google.com
 mx: *.googlemail.com
 max_age: 604800
