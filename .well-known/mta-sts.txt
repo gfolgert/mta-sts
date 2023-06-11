@@ -3,6 +3,5 @@ mode: testing
 mx: ALT1.ASPMX.L.GOOGLE.COM
 mx: ALT2.ASPMX.L.GOOGLE.COM
 mx: ASPMX.L.GOOGLE.COM
-mx: ASPMX2.GOOGLEMAIL.COM
-mx: ASPMX3.GOOGLEMAIL.COM
+mx: *.googlemail.com
 max_age: 604800
